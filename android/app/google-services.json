@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "66447109623",
+    "project_id": "celebify-d0ed9",
+    "storage_bucket": "celebify-d0ed9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:66447109623:android:5c81e6b2f182ff8aa912f2",
+        "android_client_info": {
+          "package_name": "com.example.celebify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "66447109623-pjequd9g9872mbelkbr0cb6k0r4qkfjj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwPJhzmHjZv1LoD-5VTT1VnO0CD7CjAao"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "66447109623-pjequd9g9872mbelkbr0cb6k0r4qkfjj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
